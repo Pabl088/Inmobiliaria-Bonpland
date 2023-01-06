@@ -16,16 +16,16 @@ específico.
 
 ## Requisitos:
 
--El sitio debe contar con una sección de bienvenida con inmuebles destacados.
--Debe contener una sección de “quienes somos” y “nuestra trayectoria”.
--Se necesita una sección de “contacto” para poder ver los datos de contacto del negocio.
--Ver un listado del total de los inmuebles con los filtros necesarios para poder ver
+- El sitio debe contar con una sección de bienvenida con inmuebles destacados.
+- Debe contener una sección de “quienes somos” y “nuestra trayectoria”.
+- Se necesita una sección de “contacto” para poder ver los datos de contacto del negocio.
+- Ver un listado del total de los inmuebles con los filtros necesarios para poder ver
 especificando: cantidad de ambientes, país, ciudad, metros cuadrados mínimos y
 máximos, rango de precio, y tipo de contratación (alquiler o compra).
--Se debe poder acceder al detalle de cada inmueble y poder acceder a un link para
+- Se debe poder acceder al detalle de cada inmueble y poder acceder a un link para
 contactar a la inmobiliaria enviando el código de referencia de ese inmueble en
 particular.
--La inmobiliaria debe contar con un panel privado para poder gestionar el listado de
+- La inmobiliaria debe contar con un panel privado para poder gestionar el listado de
 inmuebles para hacer la carga, edición y eliminación de cada uno.
--Los inmuebles pueden estar en diferentes estados como “disponibles”, “reservado”,
+- Los inmuebles pueden estar en diferentes estados como “disponibles”, “reservado”,
 “alquilado”, o “vendido”.
