@@ -2,19 +2,19 @@
 
 Sitio para evaluar opciones de compra-venta-alquiler de inmuebles en latinoamérica.
 
-##Descripción del proyecto:
+#Descripción del proyecto:
 
 Se solicita un sitio donde publicar un listado de inmuebles para mostrar información
 detallada de cada uno.
 
-##Objetivo:
+#Objetivo:
 
 El usuario final debe poder acceder a un listado de inmuebles y poder utilizar filtros para
 encontrar el inmueble deseado en caso de que exista. En caso de encontrarlo, poder
 contactar a la inmobiliaria conociendo la referencia del inmueble para ser más
 específico.
 
-##Requisitos:
+#Requisitos:
 
 -El sitio debe contar con una sección de bienvenida con inmuebles destacados.
 -Debe contener una sección de “quienes somos” y “nuestra trayectoria”.
