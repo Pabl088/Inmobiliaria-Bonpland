@@ -12,7 +12,7 @@
 	<artifactId>bonpland</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bonpland</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Bonpland website</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -42,6 +42,18 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.0.2</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.hibernate.validator/hibernate-validator -->
+		<dependency>
+			<groupId>org.hibernate.validator</groupId>
+			<artifactId>hibernate-validator</artifactId>
+			<version>8.0.0.Final</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
