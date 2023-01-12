@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 16px;
+}
+
+body{
+  font-family: sans-serif;
+  background-color: #434343;
+}
+
+.view-full{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.view-full h1{
+  font-size: 4rem;
+  color: #fff;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-bottom: 1.6px solid transparent;
+  transition: .3s;
+}
+
+
+.view-full h1:hover{
+  border-color: #fff;
+}
